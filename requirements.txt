@@ -3,6 +3,5 @@ numpy
 matplotlib
 scikit-learn
 scipy
-surprise
 joblib
 streamlit
