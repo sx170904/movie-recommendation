@@ -3,6 +3,6 @@ numpy
 matplotlib
 scikit-learn
 scipy
-surprise
+scikit-surprise
 joblib
 streamlit
